@@ -6,7 +6,7 @@
 
 
 | fecha | que modificacion se ha realizado | quien la ha realizado |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | 2024 10 09 | hemos empezado con el proyecto | Samuel Carnero |
 
 
